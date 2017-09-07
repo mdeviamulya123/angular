@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 1546
+gpgconf: warning: can not open config file /home/manda/.gnupg/gpg-agent.conf: No such file or directory

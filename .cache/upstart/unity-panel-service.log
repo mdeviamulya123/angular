@@ -1,0 +1,278 @@
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-WARNING **: Already have a menu for window ID 56623133 with path /com/canonical/menu/360001D from :1.88, unregistering that one
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch type: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch monitor: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch maximized state: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch property `_GTK_UNIQUE_BUS_NAME': GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch property `_GTK_UNIQUE_BUS_NAME': GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+** (unity-panel-service:1740): WARNING **: Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/37754380
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1740): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/440004E
